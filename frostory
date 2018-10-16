@@ -1,0 +1,96 @@
+<html>
+<html>
+<head>
+<link rel="stylesheet" href="bootstrap.css"/>
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<link rel="stylesheet" href="css/font-awesome.min.css"/>
+<script src="jquery.js"></script>
+<script src= "bootstrap.js"></script>
+</head>
+<body background="image/froy.jpg">
+<div class="row">
+<div class="col-md-12">
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+	
+	<div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		</button>
+		<a class="navbar-brand" rel="home" href="/" title="Aahan Krish's Blog - Homepage">Homepage</a>
+	</div>
+	
+	<div class="collapse navbar-collapse navbar-ex1-collapse">
+		<ul class="nav navbar-nav">
+			<li><a href="register.html"> Register</a></li>
+			<li><a href="shareyourstory.html"> ShareYourStory</a></li>
+			<li><a href="uploadimage.html">Upload a Fro-style</a></li>
+			<li><a href="profile.html"> Create my tee/mug</a></li>
+		</ul>
+		
+		<div class="col-md-3 pull-right">
+		<form class="navbar-form navbar-left" role="search">
+		<div class="input-group add-on">
+			<input type="text" class="form-control" placeholder="Search" name="srch-term">
+			<div class="input-group-btn">
+				<button class="btn btn-primary" type="submit"><i class="fa fa-search"></i> </button>
+			</div>
+		</div>
+		</form>
+		</div>
+		
+	</div>
+</div>
+
+<div class="col-md-3">
+<div class="ju">
+<ul class="nav nav-pills nav-stacked">
+<li class="active"> <a href="#"> Dashboard </a> </li>
+<li class=""> <a href="shareyourstory.html"> Share my Story </a></li>
+<li class=""> <a href="uploadimage.html"> Suggest a cool style </a> </li>
+<li class=""> <a href="#"> Generate my tee/mug </a> </li>
+<li class=""> <a href="Data Request.html"> Reviews</a> </li>
+<li class=""> <a href="#"> <i class="fa fa-user"></i> Log-out </a> </li>
+</ul>
+</div>
+ </div>
+<div class="col-md-9"> 
+
+
+						<div class="container">
+			<div class="col-md-6 marg">
+			<div class="panel panel-success ">
+			<div class="panel-heading">Login</div>
+			 <div class="form-horizontal" role="form">
+				<div class="form-group">
+						<label class="col-sm-3 control-label" style="padding-top:20px">Email-add</label>
+							<div class="col-md-6 margin-top"> <input class="form-control"/></div>
+				</div>
+				<div class="form-group">
+						<label class="col-sm-3 control-label">Password</label>
+							<div class="col-md-6"> <input class="form-control"/></div>
+	 			</div>
+	 			<div class="form-group">
+	 				<a href="forger.html"  style="padding-right:">Forgot Password?</a>
+	 					<label><a href="#" class="btn btn-danger btn-sm"><i class="fa fa-edit"></i>Create New Account</a></label>
+	 					<label><a href="#" class="btn btn-success btn-sm">Login<i class="fa fa-check"></i></a></label>
+	 				
+	 					<div class="form-group">
+	 						<label><a href="#" class="btn btn-primary btn-sm"><i class="fa fa-facebook-official"></i></a></label>
+	 						<label><a href="#" class="btn btn-danger btn-sm"><i class="fa fa-google-plus"></i></a></label>
+	 					</div>	 					
+	 			</div>
+			</div>
+			</div>
+			</div>
+</div>
+					</div>
+				</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+</html>
