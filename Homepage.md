@@ -1,5 +1,5 @@
 # fro-site
-bled of html and css
+blend of html and css
 <html>
 <head>
 <link rel="stylesheet" href="bootstrap.css"/>
